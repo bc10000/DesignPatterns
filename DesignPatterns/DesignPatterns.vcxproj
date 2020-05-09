@@ -158,7 +158,6 @@
   <ItemGroup>
     <ClCompile Include="Adapter.cpp" />
     <ClCompile Include="Decorator.cpp" />
-    <ClCompile Include="DesignPatterns.cpp" />
     <ClCompile Include="Factory.cpp" />
     <ClCompile Include="Observer.cpp" />
     <ClCompile Include="pch.cpp">
