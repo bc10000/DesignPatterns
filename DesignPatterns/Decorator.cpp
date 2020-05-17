@@ -1,5 +1,4 @@
 #include "pch.h"
-#include <iostream>
 
 /*-----------------------Decorator Pattern----------------------------------
 Attach additional responsibilities to an object dynamically, without changing the content of the object itself.
