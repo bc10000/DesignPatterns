@@ -108,7 +108,7 @@ int main_Factory()
   A.printObjectPool();
 
 
-  Client B(HondaType);
+  Client B(ToyotaType);
   B.getVehicleName();
   B.printObjectPool();
 
